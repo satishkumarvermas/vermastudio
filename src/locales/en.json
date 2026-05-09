@@ -1,0 +1,49 @@
+{
+  "welcome": "Welcome to Verma Studio",
+  "tagline": "Your One-Stop Destination for all CSC & Digital Services",
+  "establishment": "Serving you continuously for 14 years since 2012",
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero_title": "Every Govt. Service, Under One Roof.",
+    "hero_subtitle": "Verma Studio brings you Aadhaar, PAN, Passport, Ration, Ayushman, Banking and all online services — timely, trusted, and simple.",
+    "featured_services": "Our Specialized Services",
+    "view_all": "View All Services"
+  },
+  "services": {
+    "government": "Government & G2C Services",
+    "financial": "Banking & Financial",
+    "utility": "Utility & Printing",
+    "land": "Land & Revenue Services",
+    "aadhaar": "Aadhaar Card (New, Correction, Link)",
+    "pan": "PAN Card (New, Correction)",
+    "passport": "Passport Services",
+    "ration": "Ration Card",
+    "ayushman": "Ayushman Bharat Card",
+    "eshram": "e-Shram Card",
+    "voter": "Voter ID Card",
+    "certificates": "Caste, Domicile & Income Certificates",
+    "birth_death": "Birth & Death Certificates",
+    "typing": "Hindi & English Typing",
+    "banking": "Account Opening",
+    "cash": "Cash Deposit & Withdrawal (All Banks)",
+    "land_receipt": "Land Receipt (Lagan)",
+    "mutation": "Mutation (Dakhil Kharij) Online",
+    "khatiyan": "Online Khatiyan",
+    "photo": "Passport Size Photo",
+    "xerox": "Xerox & Scanning",
+    "solar": "PM Kusum Solar Online",
+    "lost_docs": "Find Lost Aadhaar, PAN, Voter Card",
+    "frames": "Photo Print & Framing",
+    "forms": "All Types of Online Forms",
+    "wedding_cards": "Wedding Card Printing"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "contact_us": "Contact Us"
+  }
+}

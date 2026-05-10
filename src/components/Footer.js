@@ -1,6 +1,7 @@
 import React from 'react';
 import { useTranslation } from 'react-i18next';
 import { Mail, Phone, MapPin, Share2, MessageCircle, Globe } from 'lucide-react';
+import logo from '../assets/logo.jpg';
 
 const Footer = () => {
   const { t } = useTranslation();
@@ -10,7 +11,10 @@ const Footer = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-12 mb-12">
           <div>
-            <h3 className="text-3xl font-black mb-6 tracking-tighter uppercase italic">Verma Studio</h3>
+            <div className="flex items-center space-x-3 mb-6">
+              <img src={logo} alt="Verma Studio Logo" className="h-12 w-auto border-2 border-white" />
+              <h3 className="text-3xl font-black tracking-tighter uppercase italic">Verma Studio</h3>
+            </div>
             <p className="text-gray-400 max-w-xs leading-relaxed">
               {t('home.hero_subtitle')}
             </p>

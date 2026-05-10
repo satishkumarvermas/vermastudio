@@ -26,6 +26,7 @@ const Navbar = () => {
         <div className="flex justify-between h-20">
           <div className="flex items-center">
             <Link to="/" className="flex-shrink-0 flex items-center space-x-2 sm:space-x-3">
+              <img src={logo} alt="Verma Studio Logo" className="h-10 sm:h-12 w-auto border-2 border-black" />
               <span className="text-lg sm:text-2xl font-black text-black tracking-tighter uppercase italic truncate max-w-[150px] sm:max-w-none">Verma Studio</span>
             </Link>
           </div>
